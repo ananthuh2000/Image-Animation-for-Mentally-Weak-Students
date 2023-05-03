@@ -1,2 +1,3 @@
 # Image-Animation-for-Mentally-Weak-Students
 This is a project for mentally disabled students who do not have much interest in the classes taken by teachers
+A real time facial puppetry system is presented.Compared with existing systems, the proposed method requiresno special hardware, runs in real time (23 frames-per-second),and requires only a single image of the avatar and user. Theuser’s facial expression is captured through a real-time 3D non-rigid tracking system. Expression transfer is achieved by com-bining a generic expression model with synthetically generatedexamples that better capture person speciﬁc characteristics.Performance of the system is evaluated on avatars of real peopleas well as masks and cartoon characters.
