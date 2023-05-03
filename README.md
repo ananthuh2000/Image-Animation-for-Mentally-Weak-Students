@@ -7,7 +7,7 @@ Image animation is the technology that transfers the motion posture of an object
 driving video to the static object in the source frame. Given a source image and a driving
 video depicting the same object type, the goal of image animation is to generate a video
 by learning the motion from the driving video while preserving the appearance from the
-source image. As shown in Figure 1, the motion from the driving videos in the second
+source image. The motion from the driving videos in the second
 row is transferred to the source images in the first row. In the animated videos in the third
 row, the objects from the source images follow the exact same motion as the driving videos.
 Nowadays, image animation has achieved extensive application in film production, virtual
